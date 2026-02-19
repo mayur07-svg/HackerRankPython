@@ -1,16 +1,16 @@
 # Store Data into dict
 
-# n = int(input("Enter students numbers :"))
-# students = {}
+n = int(input("Enter students numbers :"))
+students = {}
 
-# for _ in range(n):
-#     name  = input("Enter students name : ")
-#     age = int(input("Enter age :"))
-#     students[name] = age
+for _ in range(n):
+    name  = input("Enter students name : ")
+    age = int(input("Enter age :"))
+    students[name] = age
 
 
 
-# print(students)
+print(students)
 
 
 # Store List as Value ...
